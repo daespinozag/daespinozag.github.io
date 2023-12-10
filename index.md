@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<! Text can be **bold**, _italic_, or ~~strikethrough~~. – y –>,
+<!– Text can be **bold**, _italic_, or ~~strikethrough~~. –>
 
 **Looking for meeting points between physical rehabilitation and technological development**.
 [Contacto](./another-page.html).
