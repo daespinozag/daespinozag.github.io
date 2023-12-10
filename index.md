@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-// Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+<! Text can be **bold**, _italic_, or ~~strikethrough~~. – y –>,
 
 **Looking for meeting points between physical rehabilitation and technological development**.
 [Contacto](./another-page.html).
