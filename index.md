@@ -2,13 +2,8 @@
 layout: default
 ---
 
-<!– Text can be **bold**, _italic_, or ~~strikethrough~~. –>
-
 **Looking for meeting points between physical rehabilitation and technological development**.
 [Contacto](./another-page.html).
-
-< ! There should be whitespace between paragraphs. >
-// There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Bio
 
@@ -20,7 +15,7 @@ Currently, I am studying the last year of my Physiotherapy degree and simultaneo
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Headeer 3
 
 ```js
 // Javascript code with syntax highlighting.
