@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Contact
+description: Contact page
 ---
 
-## Welcome to another page
+## Contact
 
 _yay_
 
